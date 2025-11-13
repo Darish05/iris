@@ -1,4 +1,4 @@
-from flask import Flask,jasinify, jsonify,request
+from flask import Flask, jsonify,request
 import joblib
 import numpy as np
 
